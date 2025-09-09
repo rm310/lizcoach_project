@@ -1,0 +1,5 @@
+Name: Kamila
+Age: 21
+Weight: 53
+Height: 163
+Gender: Female
